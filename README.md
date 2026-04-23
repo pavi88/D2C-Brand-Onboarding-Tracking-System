@@ -205,9 +205,7 @@ GET /api/brands/summary
 ---
 
 ## 👩‍💻 Author
-
-Lekhya
-
+pavani
 
 ---
 
